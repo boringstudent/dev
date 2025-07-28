@@ -4,6 +4,6 @@
 - [XCL2.0](/XCL2.0.md)
 - [CSL1.0](/CSL1.0.md)
 - [CAT1.0](/CAT1.0.md)
-- [CAT2.0](/CSL1.0.md)
+- [CAT2.0](/CAT2.0.md)
 - [FrpcUI](/FrpcUI.md)
 - [内网穿透辅助工具](/内网穿透辅助工具.md)
